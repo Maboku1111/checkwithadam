@@ -6,6 +6,8 @@
 
 .heading {
   font-size: large;
+  list-style-type: none;
+  box-sizing: border-box;
 }
 
 .heading {
